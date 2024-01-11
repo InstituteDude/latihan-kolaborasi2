@@ -1,3 +1,4 @@
 # latihan-kolaborasi2
-I love python
-I love Machine Learning
+I love python<br>
+I love Machine Learning <br>
+I love Programming
